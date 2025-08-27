@@ -30,6 +30,7 @@ header h1 {
 main {
   flex: 1;
   padding: 2rem;
+  position: relative;
   text-align: center;
 }
 
@@ -55,6 +56,18 @@ main {
   font-size: 1rem;
   color: #ff69b4;
   font-weight: bold;
+}
+
+.image {
+    position: absolute; 
+    bottom: 0;           
+    left: 0;         
+    width: 250px;        
+}
+
+.image img {
+    width: 100%;  
+    height: auto;
 }
 
 footer {
