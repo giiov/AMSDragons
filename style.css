@@ -11,9 +11,8 @@ body {
   min-height: 100vh; /*esta alinhando o footer*/
   margin: 0;
 
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='80'><text y='50%' x='50%' text-anchor='middle' font-size='40'>💖</text></svg>");
-  background-repeat: repeat;
-  background-size: 80px;
+  background-image: radial-gradient(#ff69b4 10%, transparent 11%);
+  background-size: 40px 40px;
 }
 
 header {
