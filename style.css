@@ -10,9 +10,6 @@ body {
   flex-direction: column;
   min-height: 100vh; /*esta alinhando o footer*/
   margin: 0;
-
-  background-image: radial-gradient(#ff69b4 10%, transparent 11%);
-  background-size: 40px 40px;
 }
 
 header {
