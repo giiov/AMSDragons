@@ -59,7 +59,7 @@ main {
 }
 
 .image {
-    position: absolute; 
+    position: fixed; 
     bottom: 0;           
     right: 0;         
     width: 200px;        
@@ -79,6 +79,7 @@ footer {
    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.15); /* sombra do footer */
 
 }
+
 
 
 
